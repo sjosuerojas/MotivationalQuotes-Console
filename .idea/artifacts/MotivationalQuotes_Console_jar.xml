@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MotivationalQuotes Console:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MotivationalQuotes_Console_jar</output-path>
+    <root id="archive" name="MotivationalQuotes Console.jar">
+      <element id="module-output" name="MotivationalQuotes Console" />
+    </root>
+  </artifact>
+</component>
